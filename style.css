@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&family=Noto+Serif+KR:wght@200..900&display=swap');
+.block00{
+    width: 100%;
+    height: 1100px;
+    background-color: black;
+    background-image: url(img/bg01.png);
+    background-position: center;
+}
+.wrap01{
+    width: 1920px;
+    height: 1100px;
+    background-image: url(img/pic01.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0 auto;
+    /* border: 1px solid white; */
+    position: relative;
+}
+.block01{
+    width: 100%;
+    height: 900px;
+    background-color: #EFEFEF;
+    background-position: center;
+}
+
+.wrap02{
+    width: 100%;
+    height: 900px;
+    background-image: url(img/bg02.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+    margin: 0 auto;
+}
+
+.text00{
+    font-family: "Noto Sans KR";
+    color: black;
+    letter-spacing: 0.05em;
+}
+.textff{
+    font-family: "Noto Sans KR";
+    color: white;
+    letter-spacing: 0.05em;
+}
+
+.title01{
+    font-size: 80px;
+    font-weight: 700;
+    left: 484px;
+    position: relative;
+}
+.line01{
+    width: 950px;
+    height: 4px;
+    background-color: white;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.title02{
+    font-size: 50px;
+    font-weight: 450;
+    position: relative;
+    left: 1029px;
+}
+.title03{
+    font-size: 27px;
+    font-weight: 450;
+    position: relative;
+    text-align: center;
+    margin-top: 684px;
+}
+.line02{
+    width: 195px;
+    height: 2px;
+    background-color: black;
+    background-repeat: no-repeat;
+    margin-right: 667px;
+
+}
+.line03{
+    width: 195px;
+    height: 2px;
+    background-color: black;
+    background-repeat: no-repeat;
+}
+.text01{
+    font-size: 40px;
+    font-weight: 500;
+    position: absolute;
+    width: 400px;
+    text-align: left;
+    padding: 55;
+    margin-left: 1057px;
+}
+.text02{
+    font-size: 22px;
+    font-weight: 400;
+    position: relative;
+    /* width: 400px; */
+    margin-right: 470px;
+    padding-top: 99px;
+    text-align: right;
+    line-height: 1.7;
+}
+/* .professorimsorry{
+    font-size: 50px;
+    font-weight: 500;
+    position: static;
+    text-align: center;
+    margin: 0 auto;
+} */
