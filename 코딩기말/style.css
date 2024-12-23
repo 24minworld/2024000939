@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+}
+.bg01{
+    margin: 0 auto;
+    position: absolute;
+}
+.img01{
+    margin: 0 auto;
+    position: relative;
+}
